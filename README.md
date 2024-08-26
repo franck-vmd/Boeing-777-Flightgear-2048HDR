@@ -1,6 +1,6 @@
-General discussion on Boeing 777 all series combined
+General discussion on Boeing 777-200 HDR
 
-https://github.com/franck-vmd/Boeing-777-Flightgear-2048/discussions
+https://github.com/franck-vmd/Boeing-777-Flightgear-2048HDR/discussions
 
 ALS techniques notes
 
@@ -23,24 +23,12 @@ Bienvenue
 FlightGear Flight Simulator , souvent abrégé FlightGear ou FGFS est un jeu vidéo libre de simulation de vol , gratuit, open-source et multiplate-forme développé par le projet FlightGear .
 Principalement écrit dans le langage de programmation C++ , FlightGear est , tout comme Fly ! Legacy , un simulateur de vol dont les sources sont libres .
 
-Boeing 777 Series 200 , ER , LR , F , 777-300 , 777-300ER , 777-300ERSF , USAF (Tanker) , 777-X8 , 777-X8F , 777-X9 
+Boeing 777 Series 200  
 
 ![Image](https://i.ibb.co/6DBQQ2r/debut-video-777.jpg)
 ----------------------------------------------------------------------------------
 
 Portes 777-séries 200: L1, L2, L3, L4, R1, R2, R3, R4, ouverture et fermeture jusqu'à 35 knots
-
-Portes 777-séries 300: L1, L2, L3, L4, L5, R1, R2, R3, R4, R5, ouverture et fermeture jusqu'à 35 knots
-
-Portes 777-300ERSF: L1, R1, ouverture et fermeture jusqu'à 35 knots
-
-Portes 777-X8: L1, L2, L3, L4, R1, R2, R3, R4, ouverture et fermeture jusqu'à 35 knots
-
-Portes 777-X8F: L1, R1, ouverture et fermeture jusqu'à 35 knots
-
-Portes 777-X9: L1, L2, L3, L4, L5, R1, R2, R3, R4, R5, ouverture et fermeture jusqu'à 35 knots
-
-Portes 777-200F et 777-KFC: L1, R1, ouverture et fermeture jusqu'à 35 knots
 
 Indication visuelle intérieure cabine pour les portes : éclairage à gauche et à droite de chaque bas de portes ainsi que la manette Automatique> Manuel en haut de chaque porte 
 
@@ -83,9 +71,6 @@ Gui :
 
 ![Image](https://i.ibb.co/GRTd7nV/Gui.jpg)
 
-USAF :
-
-![Image](https://i.ibb.co/RBP6jpc/usaf.jpg)
 
 HUD :
 
@@ -98,14 +83,6 @@ Interieur :
 Oxigene masque :
 
 ![Image](https://i.ibb.co/zs0mDmF/Oxigene-masque.jpg)
-
-Interieur-777-200F , 777-KFC , 777-300ERSF , 777-X8F:
-
-![Image](https://i.ibb.co/gMwP5Zr/interieur-777-F.jpg)
-
-WingTips X8 , X8F , X9:
-
-![Image](https://i.ibb.co/pwKL1tT/WingTips.jpg)
 
 CDU :
 
@@ -130,24 +107,12 @@ Welcome
 
 FlightGear Flight Simulator, often abbreviated FlightGear or FGFS is a free, open-source, cross-platform flight simulator developed by volunteers.
 
-Boeing 777 Series 200 , ER , LR , F , 777-300 , 777-300ER , 777-300ERSF , USAF (Tanker) , 777-X8 , 777-X8F , 777-X9 
+Boeing 777 Series 200  
 
 ![Image](https://i.ibb.co/D7Z7dXV/X9.jpg)
 -------------------------------------------------------------------------------
 
 777-series 200 doors: L1, L2, L3, L4, R1, R2, R3, R4, opening and closing up to 35 knots
-
-777-series 300 doors: L1, L2, L3, L4, L5, R1, R2, R3, R4, R5, opening and closing up to 35 knots
-
-777-300ERSF doors: L1, R1, opening and closing up to 35 knots
-
-777-X8 doors: L1, L2, L3, L4, R1, R2, R3, R4,  opening and closing up to 35 knots
-
-777-X8F doors: L1, R1, opening and closing up to 35 knots
-
-777-X9 doors: L1, L2, L3, L4, L5, R1, R2, R3, R4, R5, opening and closing up to 35 knots
-
-777-200F and 777-KFC doors: L1, R1, opening and closing up to 35 knots
 
 Cabin interior visual indication for the doors: lighting on the left and right of each door bottom as well as the Automatic > Manual lever at the top of each door
 
@@ -190,10 +155,6 @@ Gui :
 
 ![Image](https://i.ibb.co/KGRBKkF/gui-2.jpg)
 
-USAF :
-
-[![FlightGear Boeing 777-US AIR FORCE](https://i.ibb.co/Y450fX9/Flight-Gear-Boeing-777-US-AIR-FORCE.jpg)](https://www.youtube.com/watch?v=aHSQxtGoFQQ "FlightGear Boeing 777-US AIR FORCE")
-
 HUD :
 
 ![Image](https://i.ibb.co/pdhgrmV/HUD777.jpg)
@@ -205,14 +166,6 @@ Interior :
 oxygen mask :
 
 ![Image](https://i.ibb.co/h2BkwH8/oxygen-mask.jpg)
-
-Interior-777-200F , 777-KFC , 777-300ERSF , 777-X8F:
-
-![Image](https://i.ibb.co/XJFQ9tx/interior-777-F.jpg)
-
-WingTips X8 , X8F , X9:
-
-![Image](https://i.ibb.co/pwKL1tT/WingTips.jpg)
 
 CDU :
 
