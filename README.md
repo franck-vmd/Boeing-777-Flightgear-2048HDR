@@ -2,13 +2,9 @@ General discussion on Boeing 777-200 HDR
 
 https://github.com/franck-vmd/Boeing-777-Flightgear-2048HDR/discussions
 
-ALS techniques notes
+HDR
 
-ALS technical notes
-
-Non Rembrandt 
-
-No Rembrandt
+![Image](https://i.ibb.co/MVRNk53/01.jpg)
 
 Wing flex 
 
