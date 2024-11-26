@@ -10,9 +10,6 @@
 		<texture>ensemble.png</texture>
 	</animation>
 
-        <effect>
-         <inherits-from>Aircraft/777-VMD/Models/Effects/reflect20</inherits-from>
-                         <object-name>Flight_attend.5l</object-name>
-               </effect>
+        
  
 </PropertyList>

@@ -26,21 +26,7 @@
        </animation>
 	
 	
-	<effect>
-         <inherits-from>Aircraft/777-VMD/Models/Effects/reflect8</inherits-from>
-                <object-name>camion</object-name>
-       </effect>
-       
-       <effect>
-         <inherits-from>Aircraft/777-VMD/Models/Effects/reflect13</inherits-from>
-                <object-name>bac_nacelle</object-name>
-                <object-name>cube1</object-name>
-                <object-name>cube2</object-name>
-                <object-name>cube3</object-name>
-                <object-name>cube4</object-name>
-                <object-name>cube5</object-name>
-                <object-name>siren</object-name>
-       </effect>
+
        
 	<animation>
 		<type>select</type>

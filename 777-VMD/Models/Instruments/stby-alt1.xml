@@ -5,15 +5,18 @@ Franck.VMD
 <PropertyList>
  <path>stby-alt1.ac</path>
 
-   <effect>
-        <name>777-interior</name>
-        <inherits-from>Aircraft/777-VMD/Models/Effects/777-interior</inherits-from>
-        <object-name>Screw01</object-name>
-        <object-name>StbyAlt</object-name>
-        <object-name>StbyAlt.knob</object-name>
-        <object-name>StbyAlt.knob.001</object-name>
-        <object-name>StbyAltbtn</object-name>
-    </effect>
+
+    
+    <animation>
+        <type>select</type>
+        <object-name>StbyAlt.screenoff</object-name>
+        <condition>
+            <less-than>
+                <property>systems/electrical/outputs/efis</property>
+                <value>15</value>
+            </less-than>
+        </condition>
+    </animation>
 
 <!--  Hotspots -->
 

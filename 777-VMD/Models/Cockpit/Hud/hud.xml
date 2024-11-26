@@ -63,7 +63,7 @@
     </animation>
     
     <effect>
-        <inherits-from>Effects/model-transparent</inherits-from>
+        <inherits-from>Effects/model-pbr-transparent</inherits-from>
    <object-name>rondL.001</object-name>
    <object-name>hudholderL.001</object-name>
    <object-name>roll</object-name>
@@ -156,6 +156,12 @@
    <object-name>vs-b</object-name>
    <object-name>vitreL</object-name>
     </effect>
+    
+    <effect>
+        <inherits-from>Aircraft/777-VMD/Models/Effects/PBR/model-pbr</inherits-from>
+                <object-name>hudholderL</object-name>
+		<object-name>rondL</object-name>
+      </effect>
 
  <animation>
   <type>pick</type>
