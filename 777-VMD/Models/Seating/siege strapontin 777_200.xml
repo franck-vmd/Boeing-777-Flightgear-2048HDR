@@ -9,18 +9,6 @@
 		<texture>sieges.png</texture>
 	 </animation>
 
-         <effect>
-         <inherits-from>Aircraft/777-VMD/Models/Effects/reflect20</inherits-from>
-                         <object-name>siegeC</object-name>
-                         <object-name>siegeB1</object-name>
-                         <object-name>siegeB2</object-name>
-                         <object-name>siegeB3</object-name>
-                         <object-name>siegeB4</object-name>
-                         <object-name>siegeB5</object-name>
-                         <object-name>siegeB6</object-name>
-                         <object-name>siegeB7</object-name>
-                         <object-name>siegeB8</object-name>
-          </effect>
           
           <!-- sieges pick -->
           

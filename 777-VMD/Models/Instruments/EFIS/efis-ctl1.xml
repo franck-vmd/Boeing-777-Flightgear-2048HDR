@@ -7,30 +7,11 @@ Franck.VMD
  <path>efis-ctl1.ac</path>
 
     <effect>
-        <inherits-from>Effects/model-transparent</inherits-from>
+        <inherits-from>Aircraft/777-VMD/Models/Effects/PBR/model-pbr-transparent</inherits-from>
         <object-name>EFIS_Lettering</object-name>
         <object-name>EFIS_Lettering_Btns</object-name>
     </effect>
 
-    <effect>
-        <name>777-interior</name>
-        <inherits-from>Aircraft/777-VMD/Models/Effects/777-interior</inherits-from>
-        <object-name>EFIS.panel</object-name>
-        <object-name>RDR.wxr</object-name>
-        <object-name>RDR.sta</object-name>
-        <object-name>RDR.wpt</object-name>
-        <object-name>RDR.arpt</object-name>
-        <object-name>RDR.data</object-name>
-        <object-name>RDR.pos</object-name>
-        <object-name>RDR.terr</object-name>
-        <object-name>LVOR.toggle</object-name>
-        <object-name>RVOR.toggle</object-name>
-        <object-name>Rvoradf</object-name>
-        <object-name>Ladf.toggle</object-name>
-        <object-name>Lvoradf</object-name>
-        <object-name>Mtrs.btn</object-name>
-        <object-name>FPV.btn</object-name>
-    </effect>
 
     <animation>
         <type>material</type>
@@ -60,12 +41,12 @@ Franck.VMD
         <property>instrumentation/efis/inputs/kpa-mode</property>
         <factor>80</factor>
         <axis>
-        <x1-m>-1.78557</x1-m>
-        <y1-m>-0.317224</y1-m>
-        <z1-m>0.610017</z1-m>
-        <x2-m>-1.82648</x2-m>
-        <y2-m>-0.317225</y2-m>
-        <z2-m>0.602805</z2-m>
+        <x1-m>-1.6895</x1-m>
+        <y1-m>-0.31109</y1-m>
+        <z1-m>0.672335</z1-m>
+        <x2-m>-1.7092</x2-m>
+        <y2-m>-0.31109</y2-m>
+        <z2-m>0.668869</z2-m>
         </axis>
         <axis>
             <x>1</x>
@@ -88,12 +69,12 @@ Franck.VMD
             <entry><ind>640</ind><dep>180</dep></entry>
         </interpolation>
         <axis>
-        <x1-m>-1.78044</x1-m>
-        <y1-m>-0.337344</y1-m>
-        <z1-m>0.580157</z1-m>
-        <x2-m>-1.82135</x2-m>
-        <y2-m>-0.337345</y2-m>
-        <z2-m>0.572945</z2-m>
+        <x1-m>-1.70385</x1-m>
+        <y1-m>-0.3312</y1-m>
+        <z1-m>0.63904</z1-m>
+        <x2-m>-1.72354</x2-m>
+        <y2-m>-0.3312</y2-m>
+        <z2-m>0.635567</z2-m>
         </axis>
         <axis>
             <x>1</x>
@@ -108,12 +89,12 @@ Franck.VMD
         <property>instrumentation/efis/inputs/minimums-mode</property>
         <factor>80</factor>
         <axis>
-        <x1-m>-1.79065</x1-m>
-        <y1-m>-0.403964</y1-m>
-        <z1-m>0.60912</z1-m>
-        <x2-m>-1.83156</x2-m>
-        <y2-m>-0.403965</y2-m>
-        <z2-m>0.601909</z2-m>
+        <x1-m>-1.68948</x1-m>
+        <y1-m>-0.39783</y1-m>
+        <z1-m>0.672335</z1-m>
+        <x2-m>-1.70918</x2-m>
+        <y2-m>-0.39783</y2-m>
+        <z2-m>0.668869</z2-m>
         </axis>
         <axis>
             <x>1</x>
@@ -133,12 +114,12 @@ Franck.VMD
             <entry><ind>3</ind><dep>90</dep></entry>
         </interpolation>
         <axis>
-        <x1-m>-1.7806</x1-m>
-        <y1-m>-0.382834</y1-m>
-        <z1-m>0.580347</z1-m>
-        <x2-m>-1.82151</x2-m>
-        <y2-m>-0.382835</y2-m>
-        <z2-m>0.573135</z2-m>
+        <x1-m>-1.704</x1-m>
+        <y1-m>-0.376689</y1-m>
+        <z1-m>0.639235</z1-m>
+        <x2-m>-1.7237</x2-m>
+        <y2-m>-0.376689</y2-m>
+        <z2-m>0.635769</z2-m>
         </axis>
         <axis>
             <x>1</x>

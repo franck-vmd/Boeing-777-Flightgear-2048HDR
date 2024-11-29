@@ -9,10 +9,6 @@
 		<texture>texture_sieges2.png</texture>
 	</animation>
 
-        <effect>
-         <inherits-from>Aircraft/777-VMD/Models/Effects/reflect20</inherits-from>
-                         <object-name>Sieges777200</object-name>
-               </effect>
                
                <animation>
         <type>material</type>

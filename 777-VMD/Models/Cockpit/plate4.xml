@@ -6,7 +6,7 @@ Franck.VMD
 
     <path>plate4.ac</path>
     <effect>
-        <inherits-from>Effects/model-transparent</inherits-from>
+        <inherits-from>Aircraft/777-VMD/Models/Effects/PBR/model-pbr-transparent</inherits-from>
         <object-name>plate4</object-name>
         <object-name>ShipIDR</object-name>
         <object-name>CompanyIDR</object-name>

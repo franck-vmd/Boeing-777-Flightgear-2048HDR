@@ -6,7 +6,7 @@ Franck.VMD
 
     <path>pedestal.ac</path>
     <effect>
-        <inherits-from>Effects/model-transparent</inherits-from>
+        <inherits-from>Aircraft/777-VMD/Models/Effects/PBR/model-pbr-transparent</inherits-from>
         <object-name>Lettering_CS.Audio_1_VhfL</object-name>
         <object-name>Lettering_CS.Audio_1_VhfC</object-name>
         <object-name>Lettering_CS.Audio_1_VhfR</object-name>
@@ -38,14 +38,54 @@ Franck.VMD
         <object-name>Lettering_CS.ST</object-name>
         <object-name>Lettering_CS.TCAS</object-name>
         <object-name>Lettering_CS.TPH</object-name>
+        <object-name>AFA_TranspCover</object-name>
     </effect>
     
     <effect>
-        <inherits-from>Aircraft/777-VMD/Models/Effects/reflect38</inherits-from>
-        <object-name>Lcutoff.Knob.001</object-name>
-        <object-name>Lettering_CS.APU.001</object-name>
-        <object-name>Rcutoff.Knob.001</object-name>
-    </effect>
+        <inherits-from>Aircraft/777-VMD/Models/Effects/PBR/model-pbr</inherits-from>
+        <object-name>Pedestal.OK</object-name>
+        <object-name>Border_LFront</object-name>
+        <object-name>LHThrottle</object-name>
+        <object-name>RHThrottle</object-name>
+        <object-name>LHRevThrust.lever</object-name>
+        <object-name>RHRevThrust.lever</object-name>
+        <object-name>SpdBrkLever</object-name>
+        <object-name>FlapLever</object-name>
+        <object-name>PitchTrim</object-name>
+        <object-name>APU_Fire_DISCH_L.btn</object-name>
+        <object-name>APU_Disch_L_Pivot</object-name>
+        <object-name>APU_Fire_DISCH_R.btn</object-name>
+        <object-name>APU_Disch_R_Pivot</object-name>
+        <object-name>APU_L_BD.btn</object-name>
+        <object-name>APU_R_BD.btn</object-name>
+        <object-name>CStab_Cover</object-name>
+        <object-name>RStab_Cover</object-name>
+        <object-name>Lcutoff.Knob</object-name>
+        <object-name>Lcutoff.Lever</object-name>
+        <object-name>Rcutoff.Knob</object-name>
+        <object-name>Rcutoff.Lever</object-name>
+        <object-name>BrkLever</object-name>
+        <object-name>Rudder.trim</object-name>
+        <object-name>Base</object-name>
+        <object-name>LightFloorPnl.knob.00</object-name>
+        <object-name>RudderTrimMC</object-name>
+        <object-name>DoorLock.knob</object-name>
+        <object-name>RadarDspl.knob</object-name>
+        <object-name>RadarPnl_GAIN.kno.000</object-name>
+        <object-name>RadarPnl_GAIN.knob</object-name>
+        <object-name>EVAC_Cover</object-name>
+        <object-name>EVAC_Horn.knob</object-name>
+        <object-name>EVAC_Test.btn</object-name>
+        <object-name>InBoardDspl.knob</object-name>
+        <object-name>Telephone</object-name>
+        <object-name>Telephone_Chord.001</object-name>
+        <object-name>RudderTrim_Wing2</object-name>
+        <object-name>RudderTrim_Wing1</object-name>
+        <object-name>bar</object-name>
+        <object-name>Border_LFront.001</object-name>
+      </effect>
+    
+
 
 <!-- New LightMap according to new Graphic addition -->
 
@@ -189,7 +229,7 @@ Franck.VMD
         <name>CDU3</name>
         <path>Aircraft/777-VMD/Models/Instruments/CDU/boeing.xml</path>
         <offsets>
-            <x-m>-1.077</x-m>
+            <x-m>-1.0847</x-m>
             <y-m>-0.000299</y-m>
             <z-m>0.016</z-m>
             <pitch-deg>-88.4</pitch-deg>
@@ -260,38 +300,6 @@ Franck.VMD
         </offsets>
     </model>
 
-    <effect>
-        <name>777-interior</name>
-        <inherits-from>Aircraft/777-VMD/Models/Effects/777-interior</inherits-from>
-        <object-name>Pedestal.OK</object-name>
-        <object-name>Border_LFront</object-name>
-        <object-name>LHThrottle</object-name>
-        <object-name>RHThrottle</object-name>
-        <object-name>LHRevThrust.lever</object-name>
-        <object-name>RHRevThrust.lever</object-name>
-        <object-name>SpdBrkLever</object-name>
-        <object-name>FlapLever</object-name>
-        <object-name>PitchTrim</object-name>
-        <object-name>APU_Fire_DISCH_L.btn</object-name>
-        <object-name>APU_Disch_L_Pivot</object-name>
-        <object-name>APU_Fire_DISCH_R.btn</object-name>
-        <object-name>APU_Disch_R_Pivot</object-name>
-        <object-name>CStab_Cover</object-name>
-        <object-name>RStab_Cover</object-name>
-        <object-name>Lcutoff.Knob</object-name>
-        <object-name>Lcutoff.Lever</object-name>
-        <object-name>Rcutoff.Knob</object-name>
-        <object-name>Rcutoff.Lever</object-name>
-        <object-name>BrkLever</object-name>
-        <object-name>RudderTrimMC</object-name>
-        <object-name>EVAC_Cover</object-name>
-        <object-name>EVAC_Test.btn</object-name>
-        <object-name>Telephone</object-name>
-        <object-name>Telephone_Chord.001</object-name>
-        <object-name>RudderTrim_Wing2</object-name>
-        <object-name>RudderTrim_Wing1</object-name>
-        <object-name>bar</object-name>
-    </effect>
 
 <!--  controls -->
 
