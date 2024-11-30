@@ -2,7 +2,7 @@ General discussion on Boeing 777-200 HDR
 
 https://github.com/franck-vmd/Boeing-777-Flightgear-2048HDR/discussions
 
-HDR
+HDR FlightGear nightly build
 
 ![Image](https://i.ibb.co/MVRNk53/01.jpg)
 
