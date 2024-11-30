@@ -6,7 +6,7 @@ HDR
 
 ![Image](https://i.ibb.co/MVRNk53/01.jpg)
 
-instal
+install Boeing 777-VMD
 
 [![FlightGear install Boeing 777-VMD](https://i.ibb.co/MCzvmVz/instal-777.jpg)](https://www.youtube.com/watch?v=ThoBLNahjSc "FlightGear install Boeing 777-VMD")
 
