@@ -8,7 +8,7 @@ HDR FlightGear nightly build
 
 install Boeing 777-VMD
 
-[![FlightGear install Boeing 777-VMD](https://i.ibb.co/MCzvmVz/instal-777.jpg)](https://www.youtube.com/watch?v=ThoBLNahjSc "FlightGear install Boeing 777-VMD")
+[![FlightGear install Boeing 777-VMD HDR](https://i.ibb.co/MCzvmVz/instal-777.jpg)](https://youtu.be/ThoBLNahjSc?si=-VmBXg-jLAdugzAb "FlightGear install Boeing 777-VMD HDR")
 
 Wing flex 
 
