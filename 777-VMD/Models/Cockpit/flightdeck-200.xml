@@ -409,57 +409,6 @@ Franck.VMD
         </offsets>
     </model>
     
-    <!-- Transparent Surfaces for Rembrandt rendering -->
-
-   <animation>
-        <type>material</type>
-       <object-name>FlashLight</object-name>
-       <object-name>LHpedal</object-name>
-       <object-name>Panel.Lwall_Cabinet_Bottom</object-name>
-       <object-name>RHpedal</object-name>
-       <object-name>Rail_R_2</object-name>
-       <object-name>SpotLight_FO.001</object-name>
-       <object-name>cockpit.door</object-name>
-       <object-name>cockpit.door.001</object-name>
-       <object-name>cockpit_ORIGINAL</object-name>
-       <object-name>cockpit_floor</object-name>
-        <texture>Cockpit/fd1.png</texture>
-    </animation>
-
-   <animation>
-        <type>material</type>
-       <object-name>Panel.center_L</object-name>
-       <object-name>PanelL.wall_Top2</object-name>
-       <object-name>Rail_R_1</object-name>
-        <texture>Cockpit/Structure_1.png</texture>
-    </animation>
-
-   <animation>
-        <type>material</type>
-       <object-name>Panel.Lwall.bottom</object-name>
-       <object-name>Panel.Lwall_Cabinet</object-name>
-       <object-name>Panel.Rwall.bottom2</object-name>
-       <object-name>Panel.Rwall_Cabinet</object-name>
-       <object-name>Panel.Rwall_Cabinet2</object-name>
-       <object-name>Panel.Rwall_Cabinet_Txt7</object-name>
-       <object-name>Tray</object-name>
-        <texture>Cockpit/Structure_2.png</texture>
-    </animation>
-
-    <animation>
-        <type>material</type>
-       <object-name>EFB_R_Shape.001</object-name>
-       <object-name>OxMask_1_Base</object-name>
-       <object-name>Panel.LwallTray.001</object-name>
-       <object-name>PanelR._Base2</object-name>
-       <object-name>Tray_Left</object-name>
-       <object-name>Tray_Left_Pivot</object-name>
-       <object-name>Tray_Left_Spring</object-name>
-       <object-name>Tray_Top</object-name>
-       <object-name>Window_L_Slide</object-name>
-        <texture>Cockpit/Structure_3.png</texture>
-    </animation>
-    
    <effect>
         <inherits-from>Aircraft/777-VMD/Models/Effects/PBR/model-pbr</inherits-from>
        <object-name>PseatD</object-name>
