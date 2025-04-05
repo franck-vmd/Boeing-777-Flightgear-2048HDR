@@ -78,7 +78,7 @@ Gui :
 
 HUD :
 
-![Image](https://i.ibb.co/Q33jckNy/HUD777.jpg)
+![Image](https://i.ibb.co/fYbnhFCV/HUD777.jpg)
 
 Interieur :
 
@@ -161,7 +161,7 @@ Gui :
 
 HUD :
 
-![Image](https://i.ibb.co/Q33jckNy/HUD777.jpg)
+![Image](https://i.ibb.co/fYbnhFCV/HUD777.jpg)
 
 Interior :
 
